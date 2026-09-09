@@ -92,6 +92,12 @@ The resume ultimately submitted was a hybrid nobody wrote: assembled from what e
 
 ---
 
+## Reusable Skill
+
+The findings are packaged as a Claude skill: [`blind-resume-evaluation/SKILL.md`](./blind-resume-evaluation/SKILL.md). It turns this experiment's method into a repeatable protocol, hide authorship, evaluate across multiple models, treat convergence as the signal, verify flagged facts, and ask for the hybrid rather than a winner, so anyone can use AI to judge a resume without being misled by the model doing the judging.
+
+---
+
 ## Limitations
 
 - Single candidate, single target role — findings are not generalisable
